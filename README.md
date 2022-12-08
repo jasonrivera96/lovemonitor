@@ -1,0 +1,3 @@
+# Love Monitor c:
+
+Hola! :D Mediante este pequeño monitor podremos llevar un registro diario de algunos puntos que pueden ser pilares en una relación de pareja. Es importante recordar que se debe ingresar los datos desde el amor y de manera honesta (no desde cualquier sentimiento negativo), pues estos datos nos servirán posteriormente para analizar si la relación se mantiene estable y se ha logrado un avance o si está decayendo. La finalidad de esta pequeña bitácora digital es brindarle a la relación el cuidado del amor que se merece y seguir creciendo como pareja. Suerte ^^
