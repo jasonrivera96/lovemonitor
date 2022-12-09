@@ -1,6 +1,6 @@
 <?php 
-	require_once("Config/Config.php");
-	require_once("Helpers/Helpers.php");
+	require_once("Application/Config/Config.php");
+	require_once("Application/Helpers/Helpers.php");
 	$url = !empty($_GET['url']) ? $_GET['url'] : 'home/home';
 	$arrUrl = explode("/", $url);
 	$controller = $arrUrl[0];
@@ -26,7 +26,7 @@
 			$params = trim($params,',');
 		}
 	}
-	require_once("Libraries/Core/Autoload.php");
-	require_once("Libraries/Core/Load.php");
+	require_once("Application/Libraries/Core/Autoload.php");
+	require_once("Application/Libraries/Core/Load.php");
 
  ?>

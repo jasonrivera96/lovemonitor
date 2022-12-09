@@ -2,7 +2,7 @@
 
 	$controller = ucwords($controller); //Para que la primera letra del controlador se reconozca en MAYÚSCULA
 	
-	$controllerFile = "Controllers/".$controller.".php";
+	$controllerFile = "Application/Controllers/".$controller.".php";
 	if(file_exists($controllerFile))
 	{
 		require_once($controllerFile);
@@ -11,10 +11,10 @@
 		{
 			$controller->{$method}($params);
 		}else{
-			require_once("Controllers/Error.php");
+			require_once("Application/Controllers/Error.php");
 		}
 	}else{
-		require_once("Controllers/Error.php");
+		require_once("Application/Controllers/Error.php");
 	}
 
 ?>

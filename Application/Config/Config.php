@@ -1,7 +1,7 @@
 <?php 
 	
-	const BASE_URL = "https://jasonrivera96.github.io/lovemonitor";
-	/* const BASE_URL = "http://localhost/lovemonitor"; */
+	/* const BASE_URL = "https://www.dominiocomprado.com"; */
+	const BASE_URL = "http://localhost/lovemonitor";
 
 	//Zona horaria
 	date_default_timezone_set('America/Guayaquil');

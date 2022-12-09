@@ -15,13 +15,13 @@
     //Funciones para poder conectar HEADER FOOTER Y NAV
     function headerAdmin($data="")
     {
-        $view_header = "Views/Template/header_admin.php";
+        $view_header = "Application/Views/Template/header_admin.php";
         require_once($view_header);
     }
 
     function footerAdmin($data="")
     {
-        $view_footer = "Views/Template/footer_admin.php";
+        $view_footer = "Application/Views/Template/footer_admin.php";
         require_once($view_footer);
     }
 
