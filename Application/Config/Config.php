@@ -1,6 +1,7 @@
 <?php 
 	
 	/* const BASE_URL = "https://www.dominiocomprado.com"; */
+	/* const BASE_URL = "https://gestionone.net/lovemonitor"; */
 	const BASE_URL = "http://localhost/lovemonitor";
 
 	//Zona horaria
